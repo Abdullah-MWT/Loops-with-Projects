@@ -8,3 +8,4 @@ while number > 0:
     number = number - 1
 
 print('Factorial Value of above Number ,', 'is', Factorial)
+

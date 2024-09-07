@@ -2,7 +2,7 @@
 
 userInput = int(input('Please number till where you want to check prime numbers: '))
 
-for num in range(2,userInput):
+for num in range(2,userInput+1):
         if userInput % num == 0:
             print('Not Prime Number')
             break
